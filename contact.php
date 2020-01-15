@@ -35,9 +35,6 @@
     
     echo '<script language="javascript">';
     echo 'alert("Thank you. We will contact you shortly.")';
-    echo '</script>';
-    
-    echo '<script language="javascript">';
     echo 'window.history.back()';
     echo '</script>';
 
